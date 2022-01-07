@@ -8,7 +8,7 @@
  * @author user
  */
 public class Main {
-    public static void main(){
-        Student s = new Student(1, "Abdur Rahim", "181");
+    public static void main(String[] args){
+        Student s1 = Student.getStudent(1, "Abdur Rahim", "181");
     }
 }

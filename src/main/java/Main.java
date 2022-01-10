@@ -10,5 +10,6 @@
 public class Main {
     public static void main(){
         Student s = new Student(1, "Abdur Rahim", "181");
+        Student s2 = new Student(2, "Abdul Karim", "171");
     }
 }
